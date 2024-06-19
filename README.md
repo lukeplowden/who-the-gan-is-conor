@@ -36,7 +36,7 @@ Given that each frame projection takes such a long time it was unfeasible to pro
 1. Quite simply I followed the [instructions on the StyleGAN3 repository](https://github.com/NVlabs/stylegan3/blob/main/docs/configs.md) for my particular setup and let it run. I managed to train for 380kimg for the main scenes and 60kimg for the title screens.
 Here are the final resulting outputs from the models used in the film:
 
-![Fake images produced by the main scenes GAN](./images/fakes_main.png)]
+![Fake images produced by the main scenes GAN](./images/fakes_main.png)
 
 ![Fake images produced by the title scenes GAN](./images/fakes_titles.png)
 
@@ -61,7 +61,7 @@ It was fun to try to think of an algorithmic kind of filmmaking, where once you 
 
 The training stage worked out OK for the main section, the titles not so much. But I am sure there are further ways to chop up the data and make it looks better. It would be ideal to keep these things in mind during the filming process, and dedicating more time to editing the footage to be consumed by the network. I was actually surprised at how well it did considering.
 
-Finally, and in a way most importantly, is it better than the original film? I definitely don't think so, but it was not conceived of in this way! 
+Finally, and in a way most importantly, is it better than the original film? I definitely don't think so, but it was not conceived of in this way! I did ultimately achieve my goal of experimenting with algorithmic filmmaking and AI generated films!
 
 ## Workflow, other people's code and AI acknowledgements
 I relied heavily on the Week 7 class Jupyter notebook called [02_StyleGAN_inference.ipynb](https://git.arts.ac.uk/rfiebrink/ExploringMachineIntelligence_Spring2024/blob/main/class-7/02_StyleGAN_inference.ipynb). I essentially wrapped the projection section from this file in a series of for loops. During the testing phase, where I was just working with 5-6 frames at a time, I was working directly in that notebook, so with the help of GitHub Copilot I put each sections from that section into its own loop. Then, since I wanted to create the whole film at a time, I manually wrapped those adapted sections in another greater for-loop, so that we could let it run overnight. I did this manually as I think the context window was a little too large for Copilot to get it right, and I really only had to copy/paste and change a couple of index variables etc. 
