@@ -1,4 +1,6 @@
-# StyleGAN3 Remake of *Who The Fuck Is Conor?*
+# [StyleGAN3 Remake of *Who The Fuck Is Conor?*](https://git.arts.ac.uk/23036879/StyleGAN3-Film-Remake)
+
+[GitHub link](https://git.arts.ac.uk/23036879/StyleGAN3-Film-Remake)
 
 Project Videos:
 - [Side by side comparison with the original film](https://vimeo.com/962221187/9dc567cfb0?share=copy)
