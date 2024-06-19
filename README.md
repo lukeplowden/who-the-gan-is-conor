@@ -72,4 +72,4 @@ I also used the [utils.py file](https://git.arts.ac.uk/rfiebrink/ExploringMachin
 
 Finally I used Copilot to completely generate the scripts [extract_frames.py](./extract_frames.py) and [vid_from_frames.py](./vid_from_frames.py). These are truly just scripts which are a bit tedious to write and I find that Copilot does a fine job, after prompting a few times to clarify what I need.
 
-I didn't use any AI to write the README explanations or the Jupyter notebooks comments / Markdown sections but some descriptions (about $w$ space) and the overall structure of the notebook are ripped directly from the (class notebook)[https://git.arts.ac.uk/rfiebrink/ExploringMachineIntelligence_Spring2024/blob/main/class-7/02_StyleGAN_inference.ipynb].
+I didn't use any AI to write the README explanations or the Jupyter notebooks comments / Markdown sections but some descriptions (about $w$ space) and the overall structure of the notebook are ripped directly from the [class notebook](https://git.arts.ac.uk/rfiebrink/ExploringMachineIntelligence_Spring2024/blob/main/class-7/02_StyleGAN_inference.ipynb).
