@@ -1,8 +1,10 @@
 # StyleGAN3 Remake of *Who The Fuck Is Conor?*
 
-VIDEO LINK
+Project Videos:
+- [Side by side comparison with the original film](https://vimeo.com/962221187/9dc567cfb0?share=copy)
+- [Generated video](https://vimeo.com/962159643/ce36485b86?share=copy)
 
-The aim of this project was to experiment with ML video generation to create an interesting visual experiment, as well as to try my hand at algorithmic filmmaking for the first time. I just wanted to create a solidly watchable piece which is a bit more than a sketch, though not necesarilly polished.
+The aim of this project was to experiment with ML video generation to create an interesting visual experiment, as well as to try my hand at algorithmic filmmaking for the first time. I just wanted to create a solidly watchable piece which is a bit more than a sketch, but I wasn't aiming for something polished necessarily!
 
 ## Original film description
 I co-created *Who The Fuck Is Conor?* with my sister Anna Plowden in December 2021 for Rietveld TV, it was aired on Christmas Day that year on a local Amsterdam telly channel. 
